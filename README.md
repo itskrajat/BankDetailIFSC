@@ -2,6 +2,6 @@
 Enter IFSC code and Get Bank details regarding IFSC code.
 
 # install
-Node js
-flask
-Python 3.10
+<p>Node js</p>
+<p>flask</p>
+<p>Python 3.10</p>
